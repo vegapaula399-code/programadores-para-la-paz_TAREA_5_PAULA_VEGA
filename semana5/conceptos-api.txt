@@ -1,0 +1,9 @@
+Ruta:
+Una ruta en una API define qué acción realiza el servidor cuando recibe una solicitud en una dirección específica (URL).  
+En este caso, la ruta determina qué información se envía o qué proceso se ejecuta cuando el usuario hace una petición como GET o POST.  
+Por ejemplo, puede devolver datos, guardar información o actualizar registros dependiendo del método usado.
+
+Uso en una aplicación comunitaria:
+Esta ruta podría servir para que una comunidad comparta información importante como noticias, eventos o convocatorias.  
+También puede permitir que los usuarios envíen datos como solicitudes, reportes o comentarios.  
+De esta forma, la API facilita la comunicación entre la comunidad y la plataforma digital de manera ordenada y automatizada.
